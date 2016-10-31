@@ -1,0 +1,4 @@
+tomcat: 
+  context: /springbootrest
+  port: 8888
+  
